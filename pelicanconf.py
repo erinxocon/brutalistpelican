@@ -48,7 +48,7 @@ PAGINATION_PATTERNS = (
 # Theme Settings
 THEME = 'themes/brutalist'
 ## used for OG tags and Twitter Card data on index page
-SITEIMAGE = 'site-cover.jpg'
+#SITEIMAGE = 'site-cover.jpg'
 ## used for OG tags and Twitter Card data of index page
 SITEDESCRIPTION = 'The ramblings of a transgender python programmer.'
 ## path to favicon
