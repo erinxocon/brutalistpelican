@@ -27,6 +27,7 @@ py_w3c = "==0.3.1"
 Pygments = "==2.2.0"
 Unidecode = "==1.0.22"
 typogrify = "*"
+ghp-import = "*"
 
 [requires]
 python_version = "3.7"
